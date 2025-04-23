@@ -12,7 +12,7 @@ This notebook demonstrates a full ML workflow:
 4. Model pipelines with scaling & log-target transform  
 5. Hyperparameter tuning via GridSearchCV  
 6. Evaluation (R², MAE) & comparison plots  
-7. A reusable `predict_output()` function for new samples  
+7. A reusable predict_output() function for new samples  
 
 
 
